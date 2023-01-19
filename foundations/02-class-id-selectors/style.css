@@ -1,0 +1,18 @@
+.cool-classy, .coolbig {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#thebest {
+    color: blue;
+    font-size: 36px;
+}
+
+.coolbig{
+    font-size: 24px;
+}
+
+#ideia {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
